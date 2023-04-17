@@ -24,5 +24,5 @@ begin
     FLAGS(1) <= C;
     FLAGS(2) <= N;
   end if;
-      
+
 end Behavioral;
